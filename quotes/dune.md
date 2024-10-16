@@ -8,4 +8,8 @@
 Will You Do?"
 * "When Is A Gift Not A Gift?"
 * "The spice must flow."
+<<<<<<< HEAD
 >>>>>>> 387e04e (H: dune.md updated)
+=======
+* "Fear is the mind-killer."
+>>>>>>> 4c540a9 (I: dune.md update 2)
